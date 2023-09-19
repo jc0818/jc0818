@@ -2,7 +2,7 @@
   
   ### :wave: Nice to meet you! This is jc0818 studying programming!
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=jc0818&fontAlign=100&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=jc0818&fontAlign=50&fontSize=55)
   <br/>
   
 # 💻BaekJoon Tier 
