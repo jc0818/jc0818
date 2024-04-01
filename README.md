@@ -37,8 +37,8 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <br/>
 
-# certificate
-🖥 Information processing industry engineer
-⌨ Graphics Qualification Technology (GTQ) Level 1
-🏅 KOOC KAIST Data Science Programming
+# 🎖Certificate
+🖥 Information processing industry engineer <br>
+⌨ Graphics Qualification Technology (GTQ) Level 1 <br>
+🏅 KOOC KAIST Data Science Programming <br/>
 </div>
