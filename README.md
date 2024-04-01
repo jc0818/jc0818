@@ -23,8 +23,9 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/javascript-4479A1?style=for-the-badge&logo=javascript&logoColor=yellow">
-  <img src="https://img.shields.io/badge/javascript-4479A1?style=for-the-badge&logo=kotlin&logoColor=puple">
-
+  <img src="https://img.shields.io/badge/Kotlin-4479A1?style=for-the-badge&logo=kotlin&logoColor=puple">
+  <img src="https://img.shields.io/badge/python-E34F26?style=for-the-badge&logo=python&logoColor=blue">
+  <br>
 
 # 🎖Certificate
 🖥 Information processing industry engineer <br>
