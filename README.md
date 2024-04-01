@@ -36,4 +36,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc0818&layout=compact)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <br/>
+
+# certificate
+🖥 Information processing industry engineer
+⌨ Graphics Qualification Technology (GTQ) Level 1
+🏅 KOOC KAIST Data Science Programming
 </div>
