@@ -22,7 +22,10 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
-
+# 🎖Certificate
+🖥 Information processing industry engineer <br>
+⌨ Graphics Qualification Technology (GTQ) Level 1 <br>
+🏅 KOOC KAIST Data Science Programming <br/>
 
 ## 🧰Tools In Use
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -36,9 +39,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc0818&layout=compact)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <br/>
-
-# 🎖Certificate
-🖥 Information processing industry engineer <br>
-⌨ Graphics Qualification Technology (GTQ) Level 1 <br>
-🏅 KOOC KAIST Data Science Programming <br/>
 </div>
