@@ -32,7 +32,14 @@
 ⌨ Graphics Qualification Technology (GTQ) Level 1 <br>
 🏅 KOOC KAIST Data Science Programming <br/>
 
-## 🧰Tools In Use
+# 🎞️Activity
+🔄️DONGGUK University Wise_Undergraduate Student In Computer Science 2024.04.16 ~  <br/>
+🔄️DONGGUK University Wise_DGU-Stack-Up 2024.03.25 ~  <br/>
+🔄️DONGGUK University Wise_Developer Web Site PM 2024.03.11 ~ <br/>  
+✔️SEMYEONG COMPUTER HIGH SCHOOL_Game Club 2023.03.04 ~ 2024.01.07 <br/>
+
+
+# 🧰Tools In Use
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
   <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
