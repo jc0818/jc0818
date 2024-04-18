@@ -33,7 +33,7 @@
 🏅 KOOC KAIST Data Science Programming <br/>
 
 # 🎞️Activity
-🔄️DONGGUK University Wise_Undergraduate Student In Computer Science 2024.04.16 ~  <br/>
+🔄️DONGGUK University Wise_Undergraduate Researcher In Computer Science 2024.04.16 ~  <br/>
 🔄️DONGGUK University Wise_DGU-Stack-Up 2024.03.25 ~  <br/>
 🔄️DONGGUK University Wise_Developer Web Site PM 2024.03.11 ~ <br/>  
 ✔️SEMYEONG COMPUTER HIGH SCHOOL_Game Club 2023.03.04 ~ 2024.01.07 <br/>
