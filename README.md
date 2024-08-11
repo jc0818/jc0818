@@ -28,9 +28,11 @@
   <br>
 
 # 🎖Certificate
+💻 K-Shield Jr. 13th Vulnerability analysis process <br>
 🖥 Information processing industry engineer <br>
 ⌨ Graphics Qualification Technology (GTQ) Level 1 <br>
 🏅 KOOC KAIST Data Science Programming <br/>
+
 
 # 🎞️Activity
 🔄️DONGGUK University Wise_Undergraduate Researcher In Computer Science 2024.04.16 ~  <br/>
