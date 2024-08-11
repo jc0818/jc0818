@@ -1,6 +1,6 @@
 <div align="center"> 
   
-  ### :wave: Nice to meet you! This is jc0818 studying programming!
+  ### :wave: Nice to meet you! This is jc0818, studying Computer Security.
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=jc0818&fontAlign=50&fontSize=55)
   <br/>
@@ -28,17 +28,18 @@
   <br>
 
 # 🎖Certificate
-💻 K-Shield Jr. 13th Vulnerability analysis process <br>
+💻 K-Shield Jr. 13th Vulnerability Analysis Process <br>
 🖥 Information processing industry engineer <br>
-⌨ Graphics Qualification Technology (GTQ) Level 1 <br>
 🏅 KOOC KAIST Data Science Programming <br/>
 
 
 # 🎞️Activity
+🔄️K-Shield Jr. 13th Project PM 2024. 07.22 ~ <br/> 
 🔄️DONGGUK University Wise_Undergraduate Researcher In Computer Science 2024.04.16 ~  <br/>
 🔄️DONGGUK University Wise_Developer Web Site PM 2024.03.11 ~ <br/> 
 🔄️Radio Frequency Attack Detection Platform. DONGGUK University Wise StartUp Club(WaveFort) 2024.05. ~  <br/>
 
+✔️K-Shield Jr. 13th Vulnerability Analysis Process <br/> 
 ✔️DONGGUK University Wise_DGU-Stack-Up 2024.03.25 ~ 2024.06.17 <br/>
 ✔️Scenario for Establishing a Securities Company Network Using GNS3 2024.05.12<br/>
 ✔️Development of Otani Simulator Game Using 2D Rendering Techniques 2024.05.01 ~ 2024.05.31 <br/>
