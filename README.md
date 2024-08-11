@@ -24,6 +24,7 @@
 ✔️SEMYEONG COMPUTER HIGH SCHOOL_Game Dev Club 2023.03.04 ~ 2024.01.07 <br/>
 
 # 💻BaekJoon Tier 
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juchan_05)](https://solved.ac/juchan_05)
 <br/>
