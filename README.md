@@ -43,7 +43,6 @@
 ✔️DONGGUK University Wise_DGU-Stack-Up 2024.03.25 ~ 2024.06.17 <br/>
 ✔️Scenario for Establishing a Securities Company Network Using GNS3 2024.05.12<br/>
 ✔️Development of Otani Simulator Game Using 2D Rendering Techniques 2024.05.01 ~ 2024.05.31 <br/>
-✔️Practice hacking a website using Sql Injection 2024.04.08 <br/>
 ✔️SEMYEONG COMPUTER HIGH SCHOOL_Game Dev Club 2023.03.04 ~ 2024.01.07 <br/>
 
 
