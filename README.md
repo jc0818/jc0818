@@ -5,11 +5,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=jc0818&fontAlign=50&fontSize=55)
   <br/>
   
-# 💻BaekJoon Tier 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juchan_05)](https://solved.ac/juchan_05)
-<br/>
-
 # 🎖Certificate
 💻 K-Shield Jr. 13th Vulnerability Analysis Process <br>
 🖥 Information processing industry engineer <br>
@@ -28,6 +23,10 @@
 ✔️Development of Otani Simulator Game Using 2D Rendering Techniques 2024.05.01 ~ 2024.05.31 <br/>
 ✔️SEMYEONG COMPUTER HIGH SCHOOL_Game Dev Club 2023.03.04 ~ 2024.01.07 <br/>
 
+# 💻BaekJoon Tier 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juchan_05)](https://solved.ac/juchan_05)
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jc0818&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc0818&layout=compact)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
