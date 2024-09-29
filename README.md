@@ -7,6 +7,7 @@
   
 # 🎖Certificate
 💻 K-Shield Jr. 13th Vulnerability Analysis Process <br>
+⌨️ Kisa Bug Hunting Intermediate Course <br>
 🖥 Information processing industry engineer <br>
 🏅 KOOC KAIST Data Science Programming <br/>
 
