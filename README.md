@@ -17,7 +17,7 @@
 🔄️DONGGUK University Wise_Developer Web Site PM 2024.03.11 ~ <br/> 
 🔄️Radio Frequency Attack Detection Platform. DONGGUK University Wise StartUp Club(WaveFort) 2024.05. ~  <br/>
 
-✔️2024 Korea Gyeongbuk Regional Problem Solving Hackathon Management Team 2024.11.30 ~ 2024.12.01
+✔️2024 Korea Gyeongbuk Regional Problem Solving Hackathon Management Team 2024.11.30 ~ 2024.12.01 <br/>
 ✔️K-Shield Jr. 13th Vulnerability Analysis Process <br/> 
 ✔️K-Shield Jr. 13th Team Project PM 2024.07.22 ~ 2024.08.20 <br/> 
 ✔️DONGGUK University Wise_DGU-Stack-Up 2024.03.25 ~ 2024.06.17 <br/>
