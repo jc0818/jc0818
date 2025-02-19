@@ -1,18 +1,20 @@
 <div align="center"> 
   
+# 0x00 | 👶 Introduction
+  
   ### :wave: Nice to meet you! This is jc0818, studying Computer Security.
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=jc0818&fontAlign=50&fontSize=55)
   <br/>
   
-# 🎖Certificate
+# 0x01 | 🎖Certificate
 💻 K-Shield Jr. 13th Vulnerability Analysis Process <br>
 ⌨️ Kisa Bug Hunting Intermediate Course <br>
 🖥 Information processing industry engineer <br>
 🏅 KOOC KAIST Data Science Programming <br/>
 
 
-# 🎞️Activity
+# 0x02 | 🎞️Activity
 🔄️DONGGUK University Wise_Undergraduate Researcher In Computer Science 2024.04.16 ~  <br/>
 
 ✔️2024 Korea Gyeongbuk Regional Problem Solving Hackathon Management Team 2024.11.30 ~ 2024.12.01 <br/>
@@ -25,13 +27,19 @@
 ✔️Development of Otani Simulator Game Using 2D Rendering Techniques 2024.05.01 ~ 2024.05.31 <br/>
 ✔️SEMYEONG COMPUTER HIGH SCHOOL_Game Dev Club 2023.03.04 ~ 2024.01.07 <br/>
 
-# 💻BaekJoon Tier 
+# 0x03 | 💻DreamHack_Stats 
+[![Dreamhack stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=kjc)]
+
+# 0x04 | 🖥BaekJoon_Tier 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juchan_05)](https://solved.ac/juchan_05)
 <br/>
+
+# 0x05 | 😺GitHub_Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jc0818&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc0818&layout=compact)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <br/>
+
 </div>
