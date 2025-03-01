@@ -15,6 +15,7 @@
 
 
 # 0x02 | 🎞️Activity
+🔄️KITRI - WhiteHat School(pre-BOB)_3rd generation 2025.03.10 ~ <br/>
 🔄️DONGGUK University Wise_Undergraduate Researcher In Computer Science 2024.04.16 ~  <br/>
 
 ✔️2024 Korea Gyeongbuk Regional Problem Solving Hackathon Management Team 2024.11.30 ~ 2024.12.01 <br/>
