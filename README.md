@@ -29,7 +29,7 @@
 ✔️SEMYEONG COMPUTER HIGH SCHOOL_Game Dev Club 2023.03.04 ~ 2024.01.07 <br/>
 
 # 0x03 | 💻DreamHack_Stats 
-[![Dreamhack stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=kjc)]
+![Dreamhack stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=kjc)
 
 # 0x04 | 🖥BaekJoon_Tier 
 
