@@ -8,13 +8,18 @@
   <br/>
   
 # 0x01 | 🎖Certificate
+</div>
 💻 K-Shield Jr. 13th Vulnerability Analysis Process <br>
 ⌨️ Kisa Bug Hunting Intermediate Course <br>
 🖥 Information processing industry engineer <br>
 🏅 KOOC KAIST Data Science Programming <br/>
 
-
+<div align="center"> 
+  
 # 0x02 | 🎞️Activity
+
+</div>
+
 🔄️KITRI - WhiteHat School(pre-BOB)_3rd generation 2025.03.10 ~ <br/>
 🔄️DONGGUK University Wise_Undergraduate Researcher In Computer Science 2024.04.16 ~  <br/>
 
@@ -28,7 +33,10 @@
 ✔️Development of Otani Simulator Game Using 2D Rendering Techniques 2024.05.01 ~ 2024.05.31 <br/>
 ✔️SEMYEONG COMPUTER HIGH SCHOOL_Game Dev Club 2023.03.04 ~ 2024.01.07 <br/>
 
+<div align="center"> 
+  
 # 0x03 | 💻DreamHack_Stats 
+  
 ![Dreamhack stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=kjc)
 
 # 0x04 | 🖥BaekJoon_Tier 
