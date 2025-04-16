@@ -2,7 +2,7 @@
   
 # 0x00 | 👶 Introduction
   
-  ### :wave: Nice to meet you! This is jc0818, studying Computer Security.
+  ### :wave: Nice to meet you! This is jc0818, Studying Computer Vulnerability Analysis
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=jc0818&fontAlign=50&fontSize=55)
   <br/>
