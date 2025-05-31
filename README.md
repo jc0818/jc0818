@@ -34,14 +34,15 @@
 
 <div align="center"> 
   
-# 0x03 | 💻DreamHack_Stats 
+# 0x03 | 📓Paper
   
-![Dreamhack stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=kjc)
 
-# 0x04 | 🖥BaekJoon_Tier 
+
+# 0x04 | 🖥Other
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juchan_05)](https://solved.ac/juchan_05)
+![Dreamhack stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=kjc)
 <br/>
 
 # 0x05 | 😺GitHub_Stats 
