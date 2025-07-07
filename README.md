@@ -33,11 +33,16 @@
 ✔️SEMYEONG COMPUTER HIGH SCHOOL_Game Dev Club 2023.03.04 ~ 2024.01.07 <br/>
 
 <div align="center"> 
-  
+
 # 0x03 | 📓Paper
+
+</div>
+  📑Analysis of ECDIS Cybersecurity Threat Scenarios Applying the S-100 Standard: A STRIDE Model-based Approach <br/>
+  📑A Methodology for Cyber Threat Assessment of ECDIS IP Interfaces in Compliance with the S-100 Standard <br/>
+  📑Mitigating the Risks of Chart Deletion Updates in ECDIS: A Procedural Approach <br/>
+
+<div align="center"> 
   
-
-
 # 0x04 | 🖥Other
 
 [![Solved.ac
