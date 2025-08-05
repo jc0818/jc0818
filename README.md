@@ -20,9 +20,10 @@
 
 </div>
 
-🔄️KITRI - WhiteHat School(pre-BOB)_3rd generation 2025.03.10 ~ <br/>
+🔄️KITRI - White Hat School(pre-BOB)_3rd 2025.03.10 ~ <br/>
 🔄️DONGGUK University Plass Undergraduate Researcher In Computer Security, Vulnerability Analysis 2025.05.14 ~  <br/>
 
+✔️KITRI - White Hat School(pre-BOB)_3rd Team Project - SeaBugs 2025.05.01 ~ 2025.08.02 <br/>
 ✔️DONGGUK University Wise_Undergraduate Researcher In Computer Science 2024.04.16 ~ 2025.05.14  <br/>
 ✔️2024 Korea Gyeongbuk Regional Problem Solving Hackathon Management Team 2024.11.30 ~ 2024.12.01 <br/>
 ✔️DONGGUK University Wise_Developer Web Site PM 2024.03.11 ~ 2024.11.25 <br/> 
