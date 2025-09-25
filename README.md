@@ -12,7 +12,7 @@
 💻 K-Shield Jr. 13th Vulnerability Analysis Process <br>
 ⌨️ Kisa Bug Hunting Intermediate Course <br>
 🖥 Information processing industry engineer <br>
-🏅 KOOC KAIST Data Science Programming <br/>
+🖱️ White Hat School(pre-BOB)_3rd <br/>
 
 <div align="center"> 
   
@@ -20,10 +20,10 @@
 
 </div>
 
-🔄️KITRI - White Hat School(pre-BOB)_3rd 2025.03.10 ~ <br/>
 🔄️DONGGUK University Plass Undergraduate Researcher In Computer Security, Vulnerability Analysis 2025.05.14 ~  <br/>
 
-✔️KITRI - White Hat School(pre-BOB)_3rd Team Project - SeaBugs 2025.05.01 ~ 2025.08.02 <br/>
+✔️KITRI - White Hat School(pre-BOB)_3rd 2025.03.10 ~ 2025.09.24<br/>
+✔️KITRI - White Hat School(pre-BOB)_3rd Team Project - SeaBugs(🏅Selection of Outstanding Project) 2025.05.01 ~ 2025.08.02 <br/>
 ✔️DONGGUK University Wise_Undergraduate Researcher In Computer Science 2024.04.16 ~ 2025.05.14  <br/>
 ✔️2024 Korea Gyeongbuk Regional Problem Solving Hackathon Management Team 2024.11.30 ~ 2024.12.01 <br/>
 ✔️DONGGUK University Wise_Developer Web Site PM 2024.03.11 ~ 2024.11.25 <br/> 
