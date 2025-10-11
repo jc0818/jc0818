@@ -43,6 +43,7 @@
   📑CISC'25 - Mitigating the Risks of Chart Deletion Updates in ECDIS: A Procedural Approach <br/>
   📑WISA_2025 - NMEA Under Siege: Dynamic Flooding Attacks and Defenses <br/>
   📑WISA_2025 - Visual Tampering in S-52: Threats and Protections <br/>
+  📑ISIS_2025 - Quantum Neural Network Approach for Classifying Dummy Power Traces in Side-Channel Analysis <br/>
 
 <div align="center"> 
   
