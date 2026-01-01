@@ -48,15 +48,19 @@
 <div align="center"> 
   
 # 0x04 | 🖥Other
+</div>
 
+🛡️<a href="https://nvd.nist.gov/vuln/detail/CVE-2025-61037">CVE-2025-61037</a><br/>
+
+<br/>
+
+<div align="center"> 
+
+# 0x05 | 🖥Other
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juchan_05)](https://solved.ac/juchan_05)
 ![Dreamhack stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=kjc)
-<br/>
 
-# 0x05 | 😺GitHub_Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jc0818&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc0818&layout=compact)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <br/>
 
