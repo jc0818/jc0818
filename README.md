@@ -47,7 +47,7 @@
 
 <div align="center"> 
   
-# 0x04 | 🖥Other
+# 0x04 | 📋CVE
 </div>
 
 🛡️<a href="https://nvd.nist.gov/vuln/detail/CVE-2025-61037">CVE-2025-61037</a><br/>
