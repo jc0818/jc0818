@@ -47,7 +47,16 @@
 
 <div align="center"> 
   
-# 0x04 | 📋CVE
+# 0x04 | 📋Contribution
+</div>
+
+📑<a href="https://github.com/naver/billboard.js/graphs/contributors">NAVER - Billboard.js </a><br/>
+
+<br/>
+
+<div align="center"> 
+  
+# 0x05 | 📋CVE
 </div>
 
 🛡️<a href="https://nvd.nist.gov/vuln/detail/CVE-2025-61037">CVE-2025-61037</a><br/>
@@ -56,7 +65,7 @@
 
 <div align="center"> 
 
-# 0x05 | 🖥Other
+# 0x06 | 🖥Other
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juchan_05)](https://solved.ac/juchan_05)
 ![Dreamhack stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=kjc)
