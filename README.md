@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&text=jc0818&fontAlign=50&fontSize=55&fontColor=ffffff&height=200)
 
 ### 👋 Hi there! I'm **jc0818**
-#### Studying Computer Vulnerability Analysis
+#### 0-Day Researcher
 
 <br/>
 
